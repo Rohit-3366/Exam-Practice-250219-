@@ -1,0 +1,13 @@
+1. Monitoring Server Performance with Task Manager
+
+
+Task Manager gives you a real-time view of your system’s performance, including CPU, memory, disk, and network usage.
+
+Opening Task Manager:
+Press Ctrl + Shift + Esc to open Task Manager.
+Alternatively, Ctrl + Alt + Del and then select Task Manager.
+You can also right-click the taskbar and choose Task Manager from the menu.
+
+there are the link of website i find interstinghttps://www.linkedin.com/advice/1/how-can-you-identify-resolve-performance-bottlenecks-fikse
+https://www.reddit.com/r/dotnet/comments/1aimcin/how_do_pros_check_for_bottlenecks_in_applications/?rdt=44660
+https://www.sciencedirect.com/topics/computer-science/performance-bottleneck
