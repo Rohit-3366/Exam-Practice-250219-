@@ -1,0 +1,20 @@
+system info command
+
+
+
+C:\Users\IT25janRR>wmic os list brief
+BuildNumber  Organization  RegisteredUser  SerialNumber             SystemDirectory      Version
+26100        PEC           Windows user    00331-10000-00001-AA545  C:\Windows\system32  10.0.26100
+
+
+
+C:\> wmic logicaldisk get name
+Name
+C:
+V:
+W:
+
+
+C:\>wmic path win32_videocontroller get name,adapterram,driverversion
+AdapterRAM  DriverVersion  Name
+2147479552  32.0.101.6078  Intel(R) UHD Graphics 770
